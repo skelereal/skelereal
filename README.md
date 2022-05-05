@@ -1,7 +1,4 @@
-- 👋 Sup, I’m @skelereal
-- 👀 I’m interested in being a front-end dev
-- 🌱 I’m currently learning HTML,CSS,JS,Python,Java
-- 💞️ I’m looking to collaborate on nothing much
+- 👋 Sup, I’m Skele
 - 📫 How to reach me? Just pop a message
 
 <!---
