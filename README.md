@@ -1,5 +1,4 @@
-- 👋 Sup, I’m Skele
-- 📫 How to reach me? Just pop a message
+- 👋 hi
 
 <!---
 skelereal/skelereal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
